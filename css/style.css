@@ -12,12 +12,12 @@
 body{
 	font-family: 'Lora', serif;
 }
+p{
+
+}
 a, a:hover{
 	text-decoration: none;
 }
-
-p{
-	font-family: 'DM Sans', sans-serif;
 
 li{
 	list-style: none;
@@ -284,6 +284,7 @@ header li:hover .nav-link:after{
     color: #000;
     margin-bottom: 25px;
     max-width: 400px;
+    font-family: 'DM Sans', sans-serif;
 }
 
 .b-lin{
@@ -324,6 +325,7 @@ header li:hover .nav-link:after{
     padding-bottom: 15px;
     margin: 0 auto;
     max-width: 1004px;
+    font-family: 'DM Sans', sans-serif;
 }
 
 .dentons_section h4{
